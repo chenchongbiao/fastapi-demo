@@ -8283,7 +8283,7 @@ i.icon.sign.out:before {
 
 /* Icons */
 
-i.icon.\3500px:before {
+i.icon.\35 00px:before {
   content: "\f26e";
 }
 
@@ -13464,7 +13464,7 @@ i.icon.star.empty:before {
 
 /* Brand Icon Font Family */
 
-i.icon.\3500px,
+i.icon.\35 00px,
 i.icon.accessible.icon,
 i.icon.accusoft,
 i.icon.adn,
@@ -15085,7 +15085,7 @@ a.ui.label {
 
 .ui.card .image > .ui.ribbon.label,
 .ui.image > .ui.ribbon.label {
-  left: calc(-0.05rem - 1.2em);
+  left: calc(--0.05rem - 1.2em);
 }
 
 .ui.card .image > .ui[class*="right ribbon"].label,
